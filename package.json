@@ -21,8 +21,10 @@
     "yarn": "^1.22.19"
   },
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
+    "start": "react-scripts start",
+    "build": "react-scripts build && yarn build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
