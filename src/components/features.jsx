@@ -1,4 +1,4 @@
-import { useTable } from 'react-table'
+
 
 export const Features = (props) => {
   return (

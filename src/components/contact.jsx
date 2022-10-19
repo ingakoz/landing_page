@@ -1,7 +1,3 @@
-import { useState } from 'react'
-import emailjs from 'emailjs-com'
-import { Image } from "./image";
-
 export const Contact = (props) => {
 
   return (
