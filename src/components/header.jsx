@@ -15,7 +15,7 @@ export const Header = (props) => {
                   href='#kontakt'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Umów się na zajęcia
+                  Zadzwoń
                 </a>{' '}
               </div>
             </div>

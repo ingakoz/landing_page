@@ -1,3 +1,5 @@
+import { useTable } from 'react-table'
+
 export const Features = (props) => {
   return (
     <div id='cennik' className='text-center'>
@@ -6,10 +8,10 @@ export const Features = (props) => {
           <h2>Cennik</h2>
         </div>
         </div>
-        <div>   <h5>table here</h5></div> 
-       
+        <h4>Cennik na sezon 2022/2023 dostępny już wkrótce</h4>
+       </div>
       
       
-    </div>
+
   )
 }

@@ -7,93 +7,86 @@
     "paragraph": "Szkoła narciaska i snowboardowa Snow School powstała w 2016 roku. W naszej szkółce łączymy naukę z zabawą, dzięki czemu stawiania pierwszych kroków na nartach, czy snowboardzie nigdy nie mogła być łatwiejsza. ",
     "Why": [
       "Wykwalifikowana kadra instruktorska",
-      "Zajęcia grupowe",
-      "Zajęcia indywidualne"
+      "Przedszkola narciarskie i snowboardowe",
+      "Zajęcia indywidualne",
+      "Zajęcia grupowe"
     ],
     "Why2": [
-      "Przedszkola narciarsko - snowboardowe",
       "Wypożyczalnia sprzętu zimowego",
+      "Baza noclegowa i topowa restauracja zaraz przy stoku",
+      "Największe lodowisko w regionie w ośrodku",
       "Serwis nart i snowboardów"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Hotel 365 & Restauracja Siedem Pokus",
+      "largeImage": "img/portfolio/stadion.jpg",
+      "smallImage": "img/portfolio/stadion.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok.jpg",
+      "smallImage": "img/portfolio/stok.jpg"
+    },
+ 
+    {
+      "title": "Przedszkola narciarskie",
+      "largeImage": "img/portfolio/children.jpg",
+      "smallImage": "img/portfolio/children.jpg"
+    },
+   
+    {
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy3.jpg",
+      "smallImage": "img/portfolio/dyplomy3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy.jpg",
+      "smallImage": "img/portfolio/dyplomy.jpg"
+    },
+  
+    {
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok_05.jpg",
+      "smallImage": "img/portfolio/stok_05.jpg"
+    },
+  
+    {
+      "title": "Naśnieżanie",
+      "largeImage": "img/portfolio/stok_04.jpg",
+      "smallImage": "img/portfolio/stok_04.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Widok z Góry Pierściennicy",
+      "largeImage": "img/portfolio/stok_02.jpg",
+      "smallImage": "img/portfolio/stok_02.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy2.jpg",
+      "smallImage": "img/portfolio/dyplomy2.jpg"
     }
   ],
+ 
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "person-skiing",
+      "name": "NARCIARSTWO",
+      "text": ""
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "person-snowboarding",
+      "name": "SNOWBOARD",
+      "text": ""
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "people-group",
+      "name": "ZAJĘCIA GRUPOWE",
+      "text": "Ofarta indywidualna (więcej informacji: info@snowschool.pl lub +41 361 55 55 (wew. 3)."
     }
+
   ],
   "Testimonials": [
     {
@@ -150,13 +143,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Aleja Na Stadion 365, 25-127 Kielce",
+    "phone": "+41 361 55 55 (wew. 3)",
+    "email": "info@snowschool.pl",
+    "partner01": "img/logo01.png"
   },
+
   "Features": [
     {
       "icon": "fa fa-comments-o",

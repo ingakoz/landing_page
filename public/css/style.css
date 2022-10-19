@@ -138,12 +138,12 @@ hr {
   transition: width 0.2s !important;
 }
 .navbar-toggle {
-  border-radius: 0;
+  border: none;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #608dfd;
+ 
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
   background-color: #608dfd;
@@ -194,6 +194,12 @@ hr {
   background-image: none;
   background-color: #6372ff;
 }
+
+.logo-image {
+margin-top: 100px;
+
+}
+
 .btn:active,
 .btn.active {
   background-image: none;
@@ -256,6 +262,7 @@ header .intro-text {
 /* Features Section */
 #cennik {
   background: #f6f6f6;
+  padding: 50px;
 }
 #cennik i.fa {
   font-size: 38px;
@@ -321,6 +328,16 @@ header .intro-text {
   padding: 100px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
+}
+
+#oferta .icon {
+  font-size: 35px;
+  border: 3px solid #fff;
+  color: #fff;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding:  14px 12px ;
+  max-width: max-content;
 }
 #oferta .service-desc {
   margin: 10px 10px 20px;
@@ -569,20 +586,20 @@ label {
   margin-right: 10px;
 }
 #kontakt .social {
-  border-top: 1px solid rgba(255, 255, 255, 0.15);
-  padding-top: 50px;
-  margin-top: 50px;
-  text-align: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  padding-top: 20px;
+  margin-top: 20px;
+  padding-bottom: 50px;
 }
 #kontakt .social ul li {
   display: inline-block;
-  margin: 0 20px;
+  margin: 0 10px;
 }
 #kontakt .social i.fa {
   font-size: 22px;
   width: 48px;
   height: 48px;
-  padding: 12px 0;
+  padding: 12px 4px 12px 15px;
   border: 2px solid #fff;
   color: #fff;
   border-radius: 50%;
@@ -592,6 +609,8 @@ label {
   color: #608dfd;
   background: #fff;
 }
+
+
 /* Footer Section*/
 #footer {
   background: #f6f6f6;
